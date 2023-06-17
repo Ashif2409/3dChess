@@ -1,0 +1,11 @@
+Model Information:
+* title:	White Queen
+* source:	https://sketchfab.com/3d-models/white-queen-2a76a326977c472ab3ed37c51cf51979
+* author:	Mohammed.Adnan (https://sketchfab.com/Mohammed.Adnan)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "White Queen" (https://sketchfab.com/3d-models/white-queen-2a76a326977c472ab3ed37c51cf51979) by Mohammed.Adnan (https://sketchfab.com/Mohammed.Adnan) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
